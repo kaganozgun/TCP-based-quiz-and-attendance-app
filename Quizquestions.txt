@@ -1,0 +1,85 @@
+
+Question-1: How long is an IPv6 address?
+a - 32 bits
+b - 128 bytes
+c - 64 bits
+d - 128 bits
+@@@@@
+d
+***///***
+Question-2: What flavor of Network Address Translation can be used to have one IP address allow many users to connect to the global Internet?
+a - NAT
+b - Static
+c - Dynamic
+d - PAT
+@@@@@
+d
+***///***
+Question-3: What are the two main types of access control lists (ACLs)?
+
+    1- Standard
+    2- IEEE
+    3- Extended
+    4- Specialized 
+a - 1 and 3
+b - 2 and 4
+c - 3 and 4
+d - 1 and 2
+@@@@@
+a
+***///***
+Question-4: What command is used to create a backup configuration?
+a - copy running backup
+b - copy running-config startup-config
+c - config mem
+d - wr mem
+@@@@@
+b
+***///***
+Question-5: You have 10 users plugged into a hub running 10Mbps half-duplex. There is a server connected to the switch running 10Mbps half-duplex as well. How much bandwidth does each host have to the server?
+a - 100 kbps
+b - 1 Mbps
+c - 2 Mbps
+d - 10 Mbps
+@@@@@
+d
+***///***
+Question-6: Which WLAN IEEE specification allows up to 54Mbps at 2.4GHz?
+a - A
+b - B
+c - G
+d - N
+@@@@@
+c
+***///***
+Question-7: Which of the following is the valid host range for the subnet on which the IP address 192.168.168.188 255.255.255.192 resides?
+a - 192.168.168.129-190
+b - 192.168.168.129-191
+c - 192.168.168.128-190
+d - 192.168.168.128-192
+@@@@@
+a
+***///***
+Question-8: To back up an IOS, what command will you use?
+a - backup IOS disk
+b - copy ios tftp
+c - copy tftp flash
+d - copy flash tftp
+@@@@@
+d
+***///***
+Question-9: What protocol does PPP use to identify the Network layer protocol?
+a - NCP
+b - ISDN
+c - HDLC
+d - LCP
+@@@@@
+a
+***///***
+Question-10: Which of the following commands will allow you to set your Telnet password on a Cisco router?
+a - line telnet 0 4
+b - line aux 0 4
+c - line vty 0 4
+d - line con 0
+@@@@@
+c
